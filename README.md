@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nazrul771
-- 👀 I’m interested in learning IOS development and java
-- 🌱 I’m currently learning IOS and java
-- 💞️ I’m looking to collaborate on projects on IOS and projects that are focussed on java
+- 👀 I’m interested in learning IOS development and python
+- 🌱 I’m currently learning IOS and python
+- 💞️ I’m looking to collaborate on projects on IOS and projects that are focussed on python
 - 📫 How to reach me nazrul7711@gmail.com or 8638419270
 
 <!---
