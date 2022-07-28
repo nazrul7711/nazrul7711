@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nazrul771
-- 👀 I’m interested in learning IOS development and python
-- 🌱 I’m currently learning IOS and python
-- 💞️ I’m looking to collaborate on projects on IOS and projects that are focussed on python
-- 📫 How to reach me nazrul7711@gmail.com or 8638419270
+- 👀 I’m interested in learning Backend development 
+- 💞️ I’m looking to collaborate on projects on Backend and projects that are focussed on javascript
+- 📫 reach me nazrul7711@gmail.com or 8638419270
 
 <!---
 nazrul7711/nazrul7711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
